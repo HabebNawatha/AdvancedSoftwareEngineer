@@ -27,6 +27,8 @@ The idea is to check the correlation between these 2 variables, which means to s
 **Python:** Since QuickDatabaseDiagram gets a specific syntax as input, We Wrote a code that converts DBML Syntax into QuickDatabaseDiagram syntax.
 The output of QuickDatabaseDiagram in PDF, PDF included the tables and their values, a python package was used to read this PDF and count the number of tables & columns.
 
+**matplotlib.pyplot/seaborn:** Used for visualization in the last step to see the results.
+
 **CSV:** the output of running the python code was processed into a CSV that contains all relevant project URLs.
 
 # Work Process
